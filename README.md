@@ -1,4 +1,4 @@
-# Olá, eu sou o Thiago (AnataWom) 👋
+# Olá, eu sou o Thiago, AnataWom 👋
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnataWom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -7,7 +7,7 @@
 
 
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Linguagens e Web**
 <p align="left">
@@ -33,7 +33,7 @@
 
 
 
-### 📈 Contribuições
+### 📈 GRaPHS :)
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnataWom&theme=tokyonight" width="100%" />
 </div>
