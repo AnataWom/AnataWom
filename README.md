@@ -1,21 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=250&section=header&text=Thiago%20%7C%20AnataWom&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=250&section=header&text=Thiago%20%7C%20AnataWom&fontSize=70&animation=rgb&fontAlignY=35&theme=tokyonight" width="100%"/>
 
   <br/>
 
-  <a href="https://github.com/AnataWom">
-    <img src="https://lanyard.now.sh/api/754422268976824512?bg=1a1b27&gradient=00d2ff,3a7bd5" />
-  </a>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=py,flask,mysql,vscode&theme=dark" />
+    <br/>
+    <b>Current Focus: Backend Development & Health Tech</b>
+  </p>
 </div>
 
 ---
 
-###  Sobre Mim
+### 👤 Sobre Mim
 Sou um aspirante a dev, focado em construir soluções gerais no mundo da computação. Recentemente, dediquei meus estudos e esforços ao projeto **Nefrontec**, uma plataforma inovadora de auxílio à saúde renal desenvolvida com **Python** e **Flask**. Tenho conhecimento em arquitetura de dados e lógica de programação.
 
 ---
 
-###  Tech Stack 
+### 🛠️ Tech Stack 
 
 **Linguagens & Web**
 <p align="left">
@@ -36,7 +38,7 @@ Sou um aspirante a dev, focado em construir soluções gerais no mundo da comput
 
 ---
 
-###  開発者の統計
+### 📊 開発者の統計
 <div align="center">
   <table border="0">
     <tr>
@@ -52,14 +54,14 @@ Sou um aspirante a dev, focado em construir soluções gerais no mundo da comput
 
 ---
 
-### 活動と貢献
+### 📈 活動と貢献
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnataWom&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
 
-###  Join
+### 🔗 Join
 <p align="left">
   <a href="https://instagram.com/thia4g_o" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
