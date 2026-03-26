@@ -3,8 +3,8 @@
 
   <br/>
 
-  <a href="https://github.com/AnataWom">
-    <img src="https://lanyard.now.sh/api/754422268976824512?bg=1a1b27&gradient=00d2ff,3a7bd5" />
+  <a href="https://discord.com/users/754422268976824512">
+    <img src="https://lanyard.cnrad.dev/api/754422268976824512?bg=1a1b27&theme=dark&animated=true&borderRadius=12px&hideDiscrim=true&showDisplayName=true" />
   </a>
 </div>
 
