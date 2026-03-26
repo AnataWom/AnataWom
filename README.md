@@ -3,11 +3,9 @@
 
   <br/>
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,flask,mysql,vscode&theme=dark" />
-    <br/>
-    <b>Current Focus: Backend Development & Health Tech</b>
-  </p>
+  <a href="https://github.com/AnataWom">
+    <img src="https://lanyard.now.sh/api/754422268976824512?bg=1a1b27&gradient=00d2ff,3a7bd5" />
+  </a>
 </div>
 
 ---
