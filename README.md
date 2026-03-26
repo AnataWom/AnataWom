@@ -3,9 +3,11 @@
 
   <br/>
 
-  <a href="https://github.com/AnataWom">
-    <img src="https://lanyard.now.sh/api/754422268976824512?bg=1a1b27&gradient=00d2ff,3a7bd5&v=2" />
-  </a>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=py,flask,mysql,vscode&theme=dark" />
+    <br/>
+    <b>Current Focus: Backend Development & Health Tech</b>
+  </p>
 </div>
 
 ---
@@ -15,7 +17,7 @@ Sou um aspirante a dev, focado em construir soluções gerais no mundo da comput
 
 ---
 
-### Tech Stack
+### Tech Stack 
 
 **Linguagens e Web**
 <p align="left">
@@ -52,22 +54,10 @@ Sou um aspirante a dev, focado em construir soluções gerais no mundo da comput
 
 ---
 
-### 活動と貢献
+### 活動 e Contribuições
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnataWom&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </div>
-
----
-
-### Conectar
-<p align="left">
-  <a href="https://instagram.com/thia4g_o" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/AnataWom">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=AnataWom&color=00d2ff&style=flat-square&label=PROFILE+VIEWS" />
