@@ -3,11 +3,9 @@
 
   <br/>
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,flask,mysql,vscode&theme=dark" />
-    <br/>
-    <b>Current Focus: Backend Development & Health Tech</b>
-  </p>
+  <a href="https://github.com/AnataWom">
+    <img src="https://lanyard.now.sh/api/754422268976824512?bg=1a1b27&gradient=00d2ff,3a7bd5&v=3" />
+  </a>
 </div>
 
 ---
@@ -54,7 +52,7 @@ Sou um aspirante a dev, focado em construir soluções gerais no mundo da comput
 
 ---
 
-### 活動 e Contribuições
+### 活動と貢献
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnataWom&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </div>
