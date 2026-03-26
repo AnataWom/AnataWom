@@ -10,12 +10,12 @@
 
 ---
 
-### 👤 Sobre Mim
+###  ...Sobre Mim !!!
 Sou um aspirante a dev, focado em construir soluções gerais no mundo da computação. Recentemente, dediquei meus estudos e esforços ao projeto **Nefrontec**, uma plataforma inovadora de auxílio à saúde renal desenvolvida com **Python** e **Flask**. Tenho conhecimento em arquitetura de dados e lógica de programação.
 
 ---
 
-### 🛠️ Tech Stack 
+### >>> Tech Stack <<<
 
 **Linguagens & Web**
 <p align="left">
@@ -59,7 +59,7 @@ Sou um aspirante a dev, focado em construir soluções gerais no mundo da comput
 
 ---
 
-### 🔗 Join
+###  Join
 <p align="left">
   <a href="https://instagram.com/thia4g_o" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
